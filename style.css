@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    padding-left: 30px;
+}
+#orange-color{
+    color: orangered;
+}
+h1{
+    font-size: 40px;
+}
+.separate{
+    width: 50%;
+    margin-left: 10px;
+    
+}
+.separate img{
+    width: 80%;
+    margin-right: 5%;
+}
+section{
+    display: flex;
+}
+.button-color{
+    background-image: linear-gradient(salmon,tomato);
+    text-decoration: none;
+    border-radius: 20px;
+    color: white;
+    padding: 10px 20px;
+}
+#setting-image{
+    background-image: url(food-network-main/images/shapes/Frame\ 58.jpg);
+    }
+
